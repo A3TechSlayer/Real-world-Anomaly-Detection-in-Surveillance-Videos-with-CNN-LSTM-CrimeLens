@@ -1,4 +1,4 @@
-# Real world Anomaly Detection in Surveillance Videos with CNN+LSTM : Pytorch 
+# Real world Anomaly Detection in Surveillance Videos with CNN+LSTM : CrimeLens 
 # This is the End of 4th year project at INSAT
 ## Goal  : Design and development of a crime forecasting system based on the videos of the surveillance cameras.
 
